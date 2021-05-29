@@ -1,0 +1,13 @@
+img{
+    height: 400px;
+    width: 30%;
+    margin: 1.485%;
+}
+
+nav{
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: 1.485%;
+    padding: 2px 2px 2px 2px;
+}
