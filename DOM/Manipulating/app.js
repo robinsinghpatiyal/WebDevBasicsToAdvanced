@@ -13,5 +13,5 @@ for (let link of allLinks) {
 }
 
 
-document.querySelector('h1').innerHTML = "My Name is Robin Singh Patiyal!"
+document.querySelector('h1').innerHTML = "My Name is Robin Singh Patiyal !!"
 document.querySelector('h1').innerHTML += '<sub> Welcome to My World! </sub>'
