@@ -17,3 +17,10 @@ document.querySelector('h1').innerHTML = "My Name is Robin Singh Patiyal !!"
 document.querySelector('h1').innerHTML += '<sub> Welcome to My World! </sub>'
 
 document.querySelector('input[type="text"').type = 'color';
+
+const h1 = document.querySelector('h1');
+h1.style.color = 'red';
+
+h1.classList.add('border');
+
+
